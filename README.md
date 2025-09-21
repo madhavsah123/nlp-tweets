@@ -1,4 +1,4 @@
-# Disaster Sentiment Analysis using NLP
+# Natural Disaster Tweets Analysis using NLP
 
 ## 🌟 Project Overview
 
