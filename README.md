@@ -1,4 +1,4 @@
-# Natural Disaster Tweets Analysis using NLP
+# Natural Disaster Tweets Classification using NLP
 
 ## 🌟 Project Overview
 
